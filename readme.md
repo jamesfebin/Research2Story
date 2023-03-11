@@ -12,7 +12,7 @@ python storify.py --url "https://arxiv.org/pdf/1706.03762.pdf" --fiction "Pirate
 
 ## Have Fun
 
-![Frame 15](/Users/febin/Downloads/Frame 15.png)
+![](./Sample.png)
 
 ## Connect with me
 
