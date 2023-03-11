@@ -1,0 +1,916 @@
+
+
+Captain Jack: Ahoy mateys, this survey be talkin' about something called language models. They add reasonin' skills and the ablilty to use tools. The fancy word for breakin' down a big job into smaller ones be de composin', and the term for callin' in outside help be external modules.
+
+Will Turner: So these language models, or LMs, can use these new skills sep-ar-ately or together if they know how?
+
+Captain Jack: Right, they can use heuristics to figure it out or they can learn it by watchin' demonstrations. They still follow the standard of predictin' missing words, but the ALMs use other tools to process context.
+
+Elizabeth Swann: So in other words, these ALMs can reason, use tools, and even act while still doin' regular language tasks?
+
+Captain Jack: Exactly me love. They even outperform the regular LMs on some tests. That's why we call them Augmented Language Models, or ALMs for short. Savvy?
+
+Jack Sparrow: "Ahoy mateys! After taking a look at the fancy advancements in ALMs, we reckon this new research path could fix some of the problems with the old school LMs. Ye know, the issues with making sense of data and making it bigger without crashing everything. Savvy?" 
+
+Will Turner: "Aye, Cap'n. It sounds like this new ALM approach has the potential to be more understandable, dependable, and flexible. No more running into unpredictable roadblocks!"
+
+Elizabeth Swann: "Exactly! It could be the key to unlocking new solutions and insights. We should keep our eyes peeled and stay ahead of the curve." 
+
+Jack Sparrow: "Arrr, well said, Miss Swann. Let's chart a course for success with these ALMs."
+
+
+
+(On the deck of the Black Pearl, Jack Sparrow and his crew gather to discuss a recent survey they conducted.)
+
+Jack: Alright, me hearties, it's time to talk about why we did this survey.
+
+Will Turner: Aye, Jack. We wanted to see what people thought about the different types of ships out there.
+
+Elizabeth Swann: And we came up with our very own classification system!
+
+Jack: That's right, luv. Our system puts ships into different categories based on their size and function.
+
+(All the crew members nod along.)
+
+Gibbs: So, what's the big deal? Why did we even bother with this survey in the first place?
+
+Jack: Well, mate, it's always good to know what your competition is up to. Plus, it gives us an edge when we're out at sea.
+
+Elizabeth: And who knows, maybe we can even convince other pirates to use our classification system!
+
+Will: Right. And if we all use the same system, it'll be easier to communicate and plan raids together.
+
+Jack: Exactly. So, let's keep spreading the word about our classification system, me hearties!
+
+
+
+Captain Jack Sparrow: Hey, mates! Let me tell you something about reasoning. It's like trying to figure out why someone did something.
+
+Will Turner: Aye, but sometimes we need to prompt them to get their reasoning.
+
+Captain Barbossa: And sometimes we gotta keep asking them questions to really understand their reasoning, but it's important to teach them how to explain themselves.
+
+Elizabeth Swann: And there are limits to how much we can reason abstractly. We need to compare and understand the limitations.
+
+Captain Jack Sparrow: Exactly! We need to make sure our reasoning is on point so we can set sail towards our goals. Savvy?
+
+
+
+Jack Sparrow and his crew are learning about using tools in the virtual world. In act 9, they need to call another model. Then, they need to retrieve information in different ways like using search engines, navigating the web, and retrieval-augmented language models. They can also use symbolic modules and code interpreters to compute tasks. Finally, they learn how to act on both the virtual and physical world. Arrr, mateys, it's important to know these things in our line of work!
+
+
+
+Jack Sparrow: Ahoy, mates! Here be some fancy words about learnin' how to think, use tools, and behave like a proper pirate.
+
+Will Turner: Aye, but it looks like we need supervision at first to make sure we don't mess up.
+
+Elizabeth Swann: And then we can use reinforcement learning to get better and better.
+
+Jack Sparrow: But let's not forget that there be limits to how much we can learn this way, and we might need to figure out new ways to improve our skills in the future.
+
+All: Aye, aye, Captain!
+
+
+
+Captain Jack Sparrow: Ahoy mateys! We be needin' to have a wee chat about somethin' important.
+
+Elizabeth Swann: What be the topic, Captain?
+
+Captain Jack Sparrow: We need to be discussin' the plan for the next port o' call. It be a treacherous one, and we need to be prepared.
+
+Will Turner: What be the dangers we be facin', Captain?
+
+Captain Jack Sparrow: There be dangerous rocks and reefs that can tear our ship to shreds. And let's not forget about the pesky navy that be patrolin' the waters.
+
+Elizabeth Swann: What be your plan, Captain?
+
+Captain Jack Sparrow: We need to make sure our ship be in tip-top shape before we set sail. We'll be navigatin' through the dangers with care, and we'll be ready to defend ourselves if we need to. Savvy?
+
+Will Turner: Aye, Captain. Let's get to work on the ship and be ready to set sail.
+
+Elizabeth Swann: We'll be ready for anything that comes our way, Captain Jack.
+
+
+
+Captain Jack Sparrow: Ahoy there mateys, it be time for us to wrap this up! 
+
+Elizabeth Swann: Aye, we've come to the end of our journey. 
+
+Will Turner: We have discussed many topics and now it's time to summarize our findings. 
+
+Captain Barbossa: Arrr, we've learned a lot about the history of piracy and how it affects our lives today. 
+
+Jack Sparrow: Indeed, savvy? And we've also talked about the different types of pirates and what motivates them to become one. 
+
+Elizabeth Swann: Plus, we explored the myths and legends surrounding piracy and how they differ from reality. 
+
+Will Turner: Lastly, we discussed the impact of piracy on the economy and how the law deals with it. 
+
+Barbossa: And that be all, me hearties. It's time for us to raise anchor and set sail on another adventure!
+
+
+
+Captain Jack Sparrow: Ahoy mates! Listen up, I've got a tale to tell ye about Large Language Models, or LLMs for short. They've been making waves in the world of Natural Language Processing and are used in many products, like that fancy coding assistant Copilot or even the Google search engine. Recently, there's been a new player in town called ChatGPT2.
+
+Barbossa: Aye, but they ain't perfect. They can sometimes give ye false information that seems right, which they call hallucinations.
+
+Will Turner: So, what ye be sayin' is that while LLMs have made great progress, they still have some limitations that need to be addressed before they can be used more widely.
+
+Jack Sparrow: Exactly, me hearty! We need to keep workin' on them so we can have better human-computer interactions in the future.
+
+Jack Sparrow: "Listen up me hearties! This fancy talkin' article is sayin' that these fancy machines called LLMs can make mistakes if they're not big enough or trained right."
+
+Will Turner: "Aye, and they're saying that LLMs are getting better at tasks if they're bigger with more parameters."
+
+Elizabeth Swann: "But it seems like they can be too big to handle, hard to train, and tough to maintain."
+
+Captain Barbossa: "Even this ChatGPT, a chatbot made with GPT3, has limitations. That's what this Goldberg fella is talkin' 'bout."
+
+Jack Sparrow: "In short, these LLMs are tricky beasts that need to be tamed with caution."
+
+Captain Jack Sparrow looks at his crew with a perplexed expression. "Arr, me hearties, it seems these fancy language models have a fundamental problem. They can only use a limited amount of words to predict what comes next. And even though they keep getting better with new technology, they still don't have enough context to always be right."
+
+Elizabeth Swann nods in agreement. "Aye, Jack. And because of this, they need to store heaps of extra knowledge just to make up for what they don't have." 
+
+Will Turner shakes his head. "But that's a waste of valuable resources. We need something that can predict language without needing to store all that extra info."
+
+"Exactly!" Jack exclaims. "That's why some researchers are looking for ways to fix this problem. They're searching for different methods, moving away from just relying on statistics."
+
+"Aye, we need something more reliable," Elizabeth adds.
+
+Will nods. "We must find a solution to this problem, me mates!"Ahoy, mateys! Listen up, ye scallywags! We've got a way to make our language understanding better without using too many complicated words. We just add information from other documents to our language models. We can do this by using a special module that pulls info from a database when we need it. This means our models can understand more without needing too many parameters. Plus, we can ask external tools for help too. It might take a bit longer, but we'll get a better answer in the end. Savvy?
+
+Jack Sparrow: Ahoy there crew! Listen up, we're talkin' 'bout somethin' called Augmented Language Models, or ALMs for short. It's a fancy term for improvin' the way our language models work. 
+
+Will Turner: Aye, that's right. They want to make our models more powerful by addin' reasoning and tools to 'em. 
+
+Elizabeth Swann: But it's not just one study, mates. There's a whole lot of 'em out there, and it can get mighty confusin'. 
+
+Jack Sparrow: That's why we need to break it down and have a clear understandin' of the terms we use. Like 'reasoning', which means breakin' down complex tasks into simpler ones that our models can handle better. 
+
+Will Turner: By doin' this, we can make our models smarter and more efficient. 
+
+Elizabeth Swann: Now that we know what we're talkin' 'bout, let's set sail and explore these ALMs!
+
+Captain Jack Sparrow and his crew were discussing the way they can break down their tasks into smaller ones using things like repeating or breaking it down. "It's like planning," Gibbs chimed in. "Just like what LeCun said in 2022." They kept talking about how to improve their reasoning skills in Language Models, like taking small steps to solve a problem. But they weren't sure if the LM is actually reasoning or just guessing. "Huang and Chang talked about it," Will Turner joined in. "They said it's a bit of a tricky thing to define." But for them, reasoning just means giving the LM more time to figure out the answer. "It's a tool," Barbossa concluded.
+
+"So, mates, let me explain what a tool is for our ALMs," Captain Jack Sparrow said as he gathered his crew around him. "It's like a little helper that we can call upon using a special code or rule. This tool can bring us information from the outside world or even do things in the real world that we can see with our own eyes."
+
+"Aye, Cap'n, like a map to find treasure or a compass to steer the ship," Gibbs chimed in.
+
+"Exactly, Mr. Gibbs. And we can use these tools when we're training or when we're trying to figure something out," Jack continued. "Sometimes we have to learn how to use the tool's own language to talk to it, kind of like learning a new pirate slang. And when we actually call upon the tool and see the result, that's what we call an action."
+
+"Ah, so like when we used that mechanical arm to pick up that cursed treasure, Cap'n!" exclaimed Will Turner.
+
+"Exactly, Mr. Turner. And even if we're just getting information from the outside world, like a scroll with a map on it, that's still considered an action. Savvy?" Jack finished.
+
+"Aye, Cap'n. So, basically, these tools are just like our trusty weapons - they help us get what we want, whether it's treasure or knowledge," Gibbs summarized.
+
+"Exactly, Mr. Gibbs. Now, who's ready to sail these waves with our newfound knowledge?" Jack asked as the crew cheered in agreement.
+
+Captain Jack Sparrow and his trusty crew have been pondering the importance of combining reasoning and tools in their ship's navigation. They believe that by using both, they can solve even the most difficult of problems without relying on luck, and with better outcomes. Reasoning would allow them to break down complex tasks into smaller, more manageable ones while their tools would help them execute each step correctly, like figuring out the right answer to a math problem. In other words, reasoning and tools work together to help the crew solve complex tasks, and neither can do it alone. Plus, both reasoning and tools improve the overall accuracy of their navigation, and they work best when used in tandem. So, Captain Jack and his crew have decided to put both reasoning and tools under the same hood, to better predict missing information and help them navigate to their next treasure-filled destination. Savvy?
+
+Captain Jack: Ahoy mateys, listen up! So there's these tools called LM, they can gather info and even affect things in the virtual or real world. And get this, it don't matter if it's solving some math problem or moving a robot arm, the LM can do it all! 
+
+Will Turner: Aye, some of the works mentioned in the survey even suggest that LM can be autonomous agents.
+
+Elizabeth Swann: We can break down the works into three categories: first, some of them focus on enhancing the reasoning capabilities of LM. Second, others allow LM to interact with outside tools and actually do things. And lastly, some explore whether LM's decision-making and tool usage is learned or just based on rules. 
+
+Jack: Savvy?
+
+Captain Jack: Ahoy, me hearties! Listen up, we've got some fancy words here. They're talkin' about different ways they could've done a survey, but the survey they did is focused on stuff that mixes reasoning or tools with LMs.
+
+Captain Barbossa: Aye, and they want ye to know that some of these techniques were originally used for somethin' else. So, if ye need more info, ye might want to check the start of the papers they mention.
+
+Will Turner: And even though they're talkin' about LLMs, not all of the works they're lookin' at use big models. They just stick to LMs to keep things right. 
+
+Captain Jack: Savvy?
+
+
+
+Captain Jack Sparrow: "Ahoy mateys, let me explain something to ye in simple words. Reasoning means using logic and evidence to come up with an answer. There are different types of reasoning, like common sense and mathematical reasoning. When we use reasoning, we often have to go through multiple steps to get to the answer. Some clever folks have shown that language models can do simple reasoning, but struggle with harder problems. That's why we need to find ways to help our LMs get better at reasoning. One problem they face is figuring out how to put together the right answers for different parts of the problem."
+
+Jack Sparrow sits down with Will Turner and explains why their language model may be flawed. 
+
+"Listen, mateys. This Language Model thingamajig can predict when a famous person was born and died, but it can't always get their age right. We call this the compositionality gap. Now, there are three popular ways to get this thing to reason better. Some people like to use something called "prompting" where they transform examples of a problem into a language problem for the LM to understand. Brown and his crew have been doing this for a while now." 
+
+"But Captain," Will interrupts, "what about those other surveys on reasoning for LMs?"
+
+"Ah, good point, Will. Huang and Chang have proposed a survey on reasoning in language models, while Qiao and his crew have a survey focused on prompting. However, since our focus is on tools combined with reasoning, I suggest we refer to those surveys for a more in-depth review. Savvy?"
+
+Jack Sparrow: Ahoy, me hearty! Let me explain something to ye about promptin'. There be two types - zero-shot and few-shot. 
+
+Will Turner: What be the difference, Jack? 
+
+Jack Sparrow: Well, me lad. In zero-shot, the model gets prompted directly with a test example. In few-shot, we give it a few examples of the task along with the test example. 
+
+Elizabeth Swann: I see, Jack. That makes sense. 
+
+Jack Sparrow: Aye, and this few-shot promptin' is also called in-context learning. It's like teachin' the model step by step to solve a task before it predicts the output or answer. 
+
+Will Turner: That sounds smart, Jack. 
+
+Jack Sparrow: Indeed, Will. It's called elicitive prompting. And it makes LMs better reasoners in a few-shot settin'. Wei et al. showed that in their study in 2022c.
+
+Elizabeth Swann: And Kojima et al. showed something similar in the zero-shot settin'. 
+
+Jack Sparrow: Precisely, Elizabeth. And to give ye an example, let's say Roger has 5 tennis balls. He then buys 2 cans of tennis balls, and each can has 3 tennis balls. How many tennis balls does he have now? 
+
+Will Turner: So, we need to add 5 to the total number of tennis balls in the two cans. 
+
+Elizabeth Swann: Which is 6. 
+
+Jack Sparrow: That's right, Elizabeth. So, Roger has a total of 11 tennis balls now. 
+
+Will Turner: It all makes sense now, Jack. Thank ye for explainin'. 
+
+Jack Sparrow: Anytime, mateys. Now let's set sail and see what other mysteries await us.
+
+Captain Jack: Alright, listen up mateys. We got a math problem to solve. 
+Will: Aye, Captain. Fire away.
+Captain Jack: If 5 plus 6 be added together, what do ye get?
+Elizabeth: That be an easy one, Captain. The answer is 11.
+Captain Jack: Well done, lass. Now, here's the real question. The cafeteria had 23 apples. They used 20 to make lunch and then bought 6 more. How many apples do they have now?
+Will: Hmm, let me think...
+Elizabeth: I got this one. They have 9 apples left.
+Captain Jack: Ah, smart one, ye are. But have ye heard of this new thing called chain-of-thought?
+Will: Chain-of-what?
+Elizabeth: Aye, tell us more, Captain.
+Captain Jack: It be a way to teach the LMs some reasoning skills. It's like a chain of thoughts, leading to an answer. Look at Figure 1, it's right here.
+Will: Oh, I see. That's clever.
+Elizabeth: And according to Table 1, it works better than other prompting methods.
+Captain Jack: But there be a catch. The big LMs with 100B+ parameters need fine-tuning for CoT to work.
+Will: That be a shame. But wait, what's UL2?
+Elizabeth: It be a 20B open source model that can handle CoT without fine-tuning. That's impressive.
+Captain Jack: Aye, it be. Now, let's go get some rum to celebrate our new knowledge.
+
+Ahoy there, mateys! The smart folks at Minerva have come up with a new way to improve math skills called few-shot CoT prompting, and it works like a charm on tests like GSM8K. But then Wang and his crew made it even better by adding Self-consistency, which picks the best answer from different ways of solving the problem. And now Press and his jolly crew have come up with something called Self-ask, where the model gets asked the question before answering it. They use handy prompts to make the answers easier to understand. Plus, they found that Self-ask works even better than CoT, especially on tricky tests that measure how well you can combine different ideas. But even bigger ship models don't make any difference, so watch out for those pesky gaps in your learning!
+
+Jack Sparrow: Ahoy, me hearties! Listen up, savvy? In 2022, them intelligent folk are focusing on questions that only need two facts to find the answer. They call 'em 2-hop questions.
+
+Elizabeth Swann: Oh, that sounds interesting. And apparently, they can use a search engine with a technique called Self-ask. Right, mate?
+
+Captain Barbossa: Aye, Self-ask can be augmented with a search engine, according to section 3. And there's another technique called ReAct by Yao and his crew. It can prompt reasoning by using three tools: searching and lookup in Wikipedia, and then finish to give the answer.
+
+Will Turner: Hmm, sounds like ReAct is worth exploring. Can you tell us more, captain?
+
+Captain Barbossa: Of course, lad. We'll talk more about ReAct in the next few sections, but first, let's hear about zero-shot prompting by Kojima et al. They wanted to teach them big ol' language models how to reason without any examples of the task at hand. Instead, they conditioned the LM on a single prompt by using the phrase, "Let's think step by step," before asking the question. They even tested it on a reasoning task called GSM8K, and while it didn't do as well as few-shot-CoT, it still did pretty good. Savvy?
+
+All: Aye, captain!
+
+In Pirate terms, the galley had 23 apples. They used 20 to cook up some grub, but then went and bought 6 more. Me mateys, how many apples does that leave us with? Let's think things through step by step, savvy? 
+*An AI model comparison table is not easily translatable into conversational style with Pirates of the Caribbean characters.,2022) is a technique where you break down a hard question into smaller questions to solve the bigger one. This helps language models understand complex tasks better. Different methods can be used to solve these smaller questions, like solving them on their own or in sequence. Some examples of these methods include Perez et al, Min et al, Yang et al, Zhou et al, Drozdov et al, Dua et al, Khot et al, Wang et al, and Wu et al. These methods can help you find answers to tough questions step-by-step. Captain Jack Sparrow thinks it's like finding your way out of a maze by following the breadcrumbs, while his first mate, Mr. Gibbs, compares it to putting together a puzzle piece by piece.
+
+As Jack Sparrow strolled through the tavern, he overheard a group of scholars discussing a new method of problem solving. Apparently, this method, called few-shot prompting, breaks down a tough problem into smaller, easier-to-solve sub-problems. How does it work? Well, the language model first uses some examples to create a list of sub-problems. Then, it solves each sub-problem one at a time, using the answer to the previous problem to help solve the next one.
+
+Now, some people have been using distant supervision to break down problems in the past. Others, like Elizabeth Swann and her crew, are using in-context learning instead. There are different methods, though. For instance, Captain Hector Barbossa has been working on a follow-up to the previous method, but instead of using a linear method, his method uses a series of prompts to perform recursive syntactic parses of the input. He also chooses the exemplars automatically through various heuristics.
+
+All in all, it seems like a pretty good way to solve tough problems. But what do they know? They're just scholars, not real pirates. Right, Gibbs?
+
+Jack Sparrow: Ahoy mates! Let me break this down for you. This (2022) work is being done at the same time as Zhou and his crew's work (2022). But, there's a big difference - we're combining the questions and answers together to predict the next question, while Zhou and his team are generating questions without looking at the previous answers. 
+
+Barbossa: Aye, and there's more. Yang and his crew (2022a) are using rules and prompts to turn questions into SQL operations. Khot and his crew (2022) are also using prompts, but they've got a whole library of specialists to solve problems like retrieval. 
+
+Elizabeth Swann: But, we've got to remember that even though these methods have shown impressive results, there are still some problems. For example, these methods need a big model and have some drawbacks. 
+
+Jack Sparrow: Aye, it's like using a map to navigate through the sea - it can work, but there might be some rocks and rough waters along the way. We need to keep our eyes open and be prepared to adjust our course.
+
+Captain Jack Sparrow was in need of some help. He had a task to solve, but he needed some prompts to figure out how to do it step-by-step. "I need to discover some prompts that will help me reason my way through this new task," he said to his trusty companion, Gibbs.
+
+But Gibbs was a bit confused. "Prompts? What in the world are prompts?" he asked.
+
+Jack sighed. "It means finding clues or examples that will help me figure out something new."
+
+"Glad that's cleared up," Gibbs replied with a smirk.
+
+Jack continued, "But there's a problem. Using prompts is a computationally expensive process."
+
+Gibbs raised an eyebrow. "Uh, what does that mean?"
+
+"It means it's going to take a lot of time and effort to do," Jack explained.
+
+Just then, Will Turner came over to join the conversation. "So what's the task you need help with, Jack?"
+
+Jack explained the problem to them. "It takes Amy 4 minutes to climb to the top of a slide. It takes her 1 minute to slide down. The water slide closes in 15 minutes. How many times can she slide before it closes?"
+
+Will thought about it for a moment. "Well, first we need to figure out how long each trip takes, right?"
+
+"Exactly!" Jack exclaimed. "And once we know that, we can figure out how many times she can slide before the slide closes."
+
+Together, they worked through the prompts, and eventually came up with the answer. "Each trip takes 5 minutes, so she can slide three times before the slide closes," Will said.
+
+Jack and Gibbs nodded in agreement. "Well done, mate," Jack said to Will.
+
+And with that, they set off on their next adventure, ready to tackle any problem that came their way.5 = 3 times before it closes, savvy?
+
+Jack: Hey there, mateys! I've got a question for ye. Miss Amy here climbs up the slide in 4 minutes and slides down in just a minute. How long does one trip take?
+
+Amy: Aye, it takes me 5 minutes to complete one whole trip.
+
+Barbossa: And another question, savvy? How many times can she slide before the slide is closed?
+
+Amy: Well, the slide be closing in just 15 minutes. And with one trip lasting for 5 minutes, I can slide down that slide three times before it be closing down for the night.
+
+
+
+Captain Jack Sparrow was trying to solve a problem. The problem needed to be broken into smaller parts, so he wrote down some subproblems in his journal. He knew he had been asked this problem three times before, and he had to answer it quickly. 
+To make it easier for himself, he trained his brain to use a "scratchpad" memory, like a human. This would help him remember all the steps he needs to take to solve the problem correctly, even if there are many steps involved. Some people call this a "working memory". 
+This is important because sometimes the problem is too long and complex to remember all the details, even if he has lots of examples to go by. But with a scratchpad, he can keep all the different steps organized and remember everything he needs to know to solve the problem quickly and accurately. 
+Captain Barbossa was impressed by Jack’s ability to remember everything so easily, and asked him how he did it. Jack replied, "Aye, it’s all about using the old noggin' and keeping everything in order. With a scratchpad, it’s as easy as sailing on calm waters."(2022) discuss the use of a tool called "scratchpad" in LM training. So basically, during training, the LM will see different types of math problems with the steps written down on a scratchpad. Then, when it's time for the LM to take a test, it has to predict the right steps and answer for a given math problem. 
+
+The scratchpad is different from other methods because it's designed specifically for certain math problems and it's based on real examples. The scratchpad was also used by a group called Galactica, who were studying scientific data. They added a special token that acts like a working memory and helps the LM to understand the complex reasoning involved. If the token is activated during testing, the scratchpad will work its magic and help the model to get the problem right.Jack Sparrow: "Arrr mateys, we be talkin' 'bout a problem with training on reasoning examples. Seems like there be some steps missing and humans don't always write 'em all down. But the smart ones at Galactica made datasets with all the details spelled out!"
+
+Barbossa: "Aye, but there be other ways to improve reasoning skills too. Zelikman and his crew came up with a bootstrap approach to generate reasoning steps, while Yu and his crew showed that fine-tuning can lead to better skills like textual entailment and analogical reasoning. And there be some instruction fine-tuning approaches out there too."
+
+Elizabeth Swann: "Sounds like we need to be fine-tuning our skills to become better thinkers."
+
+Will Turner: "Aye, but we need to do it in a way that doesn't miss any steps, like those Galactica datasets."
+
+Captain Jack Sparrow was reading about some fancy-sounding research done by some clever folk, which had big words like "chain-of-thought style prompts" and "un-ﬁnetuned large scale models". He couldn't make heads or tails of it, so he decided to skip ahead to the next part.
+
+He saw a question about a needle resting on water, and he remembered learning about that in one of his many adventures. He quickly did the calculation, which involved dividing a number by another number and then multiplying them together.
+
+He wrote down the answer of 0.0051N on a piece of parchment, feeling quite pleased with himself. He imagined using his newfound knowledge to impress the other pirates at the next port.
+
+Then he saw a picture of some kind of memory game, which he assumed was related to the research from before. He didn't understand it either, but that was okay - he was a pirate, not a scientist!
+
+Captain Jack Sparrow: "Ahoy mates, let me tell ye about this thing called reasoning. It's like breaking down a problem into smaller problems to solve them one by one. But, be warned, it can be tricky to find the right path and sometimes you might make a mistake.
+
+Captain Barbossa: "Aye, Jack's right. There ain't no guarantee that every step you take is correct. Some folks try to ask questions along the way to make sure they're on the right track."
+
+Will Turner: "But even with those questions, there's still no guarantee that everything is correct."
+
+Elizabeth Swann: "That's why some people use something called trees to keep track of their progress. They break down the problem into smaller parts and prove each one along the way."
+
+Captain Jack Sparrow: "Arr, that be a good point, Elizabeth. Each part needs to be true or proven before continuing on. But in the end, even with trees, there's still no guarantee that everything is correct. It's a tricky business, reasoning is."
+
+"C'mon mates, let me explain this in simple words," Captain Jack Sparrow said to his fellow pirates. "A reasoning LM is like a clever mind trying to find the right answer. It looks at the information around it and makes its best guess. But sometimes it can make mistakes, like doing math wrong or not knowing who was president in a certain year. That's where tools come in handy, like search engines or calculators, to check if the LM is on the right track. Savvy?"
+
+
+
+Jack Sparrow: "Ahoy mateys! Listen up, I've got some news about these fancy language models. There's this new trick they can do where they can access information that's not necessarily stored in them, savvy? Like if they need to find some facts, they can use another program, like a python interpreter or a search engine, to help them out. They call these programs 'tools'."
+
+Will Turner: "That's interesting, Jack. But what about when the language model actually does something with this info? That's an 'action,' right?"
+
+Jack Sparrow: "You're a smart one, Will! That's exactly right. If the tool has an effect on the outside world, that's an action. And get this – these language models can easily use tools and actions thanks to special tokens. It's all part of the transformer magic."
+
+Elizabeth Swann: "But Jack, what about calling another language model? Can they do that?"
+
+Jack Sparrow: "Indeed they can, Elizabeth. They can even call themselves! It's called iterative language model calling. Basically, instead of trying to optimize for just one perfect output, they can keep calling themselves to make their output better and more refined. Pretty clever, eh?"Captain Jack Sparrow: Ahoy Mateys! Listen up! There's a new way to generate stories with our good friend Re3 (Yang et al., 2022c). It uses a fancy machine called GPT3 (Brown et al., 2020) to create characters, settings, and a plan by starting with a premise. Then, Re3 uses that plan along with the current state of the story to tell new passages. 
+
+Captain Hector Barbossa: Ah, that's not all, Jack. Yang et al. (2022b) made it even better with a learned detailed outliner that expands the story outline to any level of detail. There are even other approaches that teach models to improve texts without any supervision. 
+
+Captain Jack Sparrow: Aye, Captain Barbossa! Aye! PEER (Schick et al., 2022) is a great example of such a model that begins with LM-Adapted T5 (Raﬀel et al.). It helps to fill in missing parts of a story or convert jumbled words into more meaningful ones. 
+
+Captain Hector Barbossa: Arr, it's a marvelous thing, Jack! We can use these new tools to make our stories even more exciting and engaging. Me hearty crew, let's set sail and start writing some epic tales!
+
+Captain Jack Sparrow and his crew discovered a new AI called PEER that's very smart. It learned how to make changes to articles and plan out what to write next. The best part is that it can break down big tasks into smaller ones. Some other people are also working on AI like this, but they use rules to guide it. In the future, they want to let the AI keep editing until it's perfect. One group even made a way for different AIs to work together, like a chain. This helps regular folks solve tough problems with AI they might not understand. Arr, we be taking over the seas with our knowledge!
+
+Captain Jack Sparrow: Ahoy mateys! Did ye hear about Brittney Reese, the American long jumper?
+
+Elizabeth Swann: Aye, Captain. She was born on September 9, 1986.
+
+Captain Jack Sparrow: Nay, lass. That information be incorrect. She was actually born in Gulfport, Mississippi.
+
+Will Turner: But why does this matter, Captain?
+
+Captain Jack Sparrow: Well, me dear Will, it's important to have accurate information. Especially for chatbots or other artificial intelligence models that rely on various ways of communication, like vision and language.
+
+Elizabeth Swann: Oh, I see what you're saying now, Captain. It's important to make sure the context is clear and correct.
+
+Captain Jack Sparrow: Aye, that be exactly it, lass. And speaking of diverse modalities, there be some clever chaps out there who have used LMs as a general-purpose interface with pre-trained models.
+
+Will Turner: That's fascinating, Captain. How do they do that?
+
+Captain Jack Sparrow: Well, they take a number of different pre-trained encoders that can process various modalities, and use them to teach the model how to understand and respond to different types of input. It's quite a clever system, if I do say so meself.2008 Summer Olympics and won big at the World Championships four different times! She's a real star in the long jumping world. 
+
+Captain Jack Sparrow: "Aye, now that's a name I've not heard before. Brittney Reese, you say? She's quite the long jumper, competing in the Summer Olympics and winning not one, not two, not three, but four World Championships! She's a legend in the making, that one." 
+
+Elizabeth Swann: "Ah, yes, I've heard of Brittney Reese. She's an athlete from America who's made quite a name for herself in the long jumping category. She's even got a few Olympic appearances under her belt."
+
+Will Turner: "Sounds like Brittney Reese is a force to be reckoned with! I can only imagine the hours she's put in to become a four-time World Champion. Talk about dedication and hard work. She's an inspiration."
+
+
+
+In Pirate-speech:
+
+Captain Jack Sparrow: Ahoy, mates! Check out this fancy-sounding talk about some kind of LM thing. Can someone translate it into simpler words, savvy?
+
+William Turner: Aye aye, Captain. This article is talking about a computer program that helps improve text. It suggests changes to make the writing better. The person using it can keep changing the text until it's perfect.
+
+Elizabeth Swann: And they say this program can do both in-context and open-ended learning. That means it learns from what it reads and can write new things too. 
+
+Captain Barbossa: And they pre-train it so it's ready to go, like a ship with its cannons already loaded. So, if we want to use it, we can fine-tune it to make it work better for our needs.
+
+Joshamee Gibbs: And don't forget the example they used to explain it. They made a plan for what to add to a sentence, and then the program made the changes. Easy as stealing treasure from a merchant ship! 
+
+Captain Jack Sparrow: Perfect, now we can all use this LM to polish our pirate-speak, savvy? And while we're at it, let's mention that Brittney Reese, the long jumper, was born in Inglewood, California. That might come in handy during one of our famous treasure hunts!
+
+Captain Jack Sparrow and his crew stumbled upon a new crew member, Flamingo. Flamingo is a special kind of model that can handle any combination of pictures and text together. They were trained on a bunch of different websites with both pictures and words. Flamingo is a quick learner too, with only a few examples they can do things like answer questions about pictures or write captions. But that's not all! Another group of pirates, led by Barbosa, has come up with a new idea for models called Socratic Models. These models can work together without any extra training to help each other learn more things. It's like having a bunch of friends on your voyage who can teach you new skills along the way.
+
+Captain Jack Sparrow: "Ahoy, me hearties! Listen up, I've got some news about Socratic Models. These fancy models can do all sorts of things, like help robots see and plan, or answer questions about videos. They can even talk to other databases and engines to get more information. And get this, if we add some pictures, these models can think even better! We can also use something called neural cache to help these models learn faster, or get information from outside sources. Savvy?"
+
+Captain Jack Sparrow was talking to his crew about some new strategies they could use to improve their language skills. He mentioned something about "memory augmentation" which can help them avoid using wrong or outdated information when talking to other pirates. It also helps them use fewer words while still making sense.
+
+Captain Sparrow explained that there are two kinds of "retrievers" that can help them with this: "dense" and "sparse". The sparse ones work with simple words and queries, while the dense ones are powered by a fancy computer network. Both types help them figure out which information is relevant to a conversation, and they do this by checking for things like how similar two ideas are. 
+
+Captain Sparrow's crew was intrigued by this new information and started chatting about which kind of retriever they would prefer to use. Some pirates thought the dense one sounded more powerful, but others liked the simplicity of the sparse one. They all agreed, however, that using these memory augmentation strategies would make their conversations with other pirates more effective and convincing.
+
+Captain Jack Sparrow, Will Turner, and Elizabeth Swann were discussing their latest mission to answer questions about pirate history. Will asked, "How can we improve our language model to answer these questions better?"
+
+Elizabeth replied, "Well, one idea is to have our model look at past documents and use them to answer new questions. This is called a retriever-augmented language model."
+
+Captain Jack added, "Aye, several scholars have already tried this method. They added the retrieved documents to their current context to improve their language model's performance."
+
+Will asked, "That sounds promising. Who were these scholars?"
+
+Elizabeth listed, "Chen, Clark, Lee, Guu, Khandelwal, Lewis, Izacard, Grave, Zhong, Borgeaud, and many others."
+
+Captain Jack chimed in, "The REALM method was the first to combine retrieval and language models, and RAG fine-tunes the retriever with a sequence model. These approaches have shown to close the performance gap compared to larger language models that use more parameters."
+
+Will nodded, "Thanks for explaining it in simpler terms, mateys. Let's try these methods and see how they improve our pirate history knowledge."
+
+Jack Sparrow: "Ahoy! Izacard and Grave came up with a fancy way to go through a bunch of papers real quick. And Borgeaud and his crew made an auto-regressive LM called RETRO that doesn't need much training to work well. They used BERT, which is a pre-trained model, and it worked great on different tasks. All of this means we can use the retrieval process with the pre-trained models we already have. Pretty nifty, aye? And Atlas here, well they trained the retrieval and the sequence-to-sequence model together to create a strong LM that can learn with just a few examples. Check out Table 2 to see all the differences between these models, especially how they integrate retrievals with the context of the LM. Oh, and by the way, the search term is the same as the question."
+
+Assemble, me hearties! We've got a chart here that shows different models for language machines that can help us find information in databases. 
+
+The first model, REALM, is good for finding things based on specific words or phrases. It's like adding more to a sentence to make it more specific.
+
+Next up is RAG. This model lets us fine-tune our search and adjust things as we go along. It's like we're puzzling together different pieces until we find what we're looking for.
+
+Then we have RETRO. This one works with huge amounts of information and breaks it down into manageable chunks. It's like breaking a big puzzle into smaller ones and solving them bit by bit.
+
+Finally, there's Atlas. This model is great for finding specific information based on a prompt. You give it a starting point and it helps you build from there.
+
+Some clever pirates have even combined these models with something called Chain-of-Thought Prompting, which helps them reason through searches and find the best information. They don't even need any extra training or fine-tuning to do it! 
+
+So, which one is best for us, my mates? It all depends on what we're searching for and how specific we need to be. But with these tools in hand, we can find anything we need to know on the high seas!
+
+Captain Jack Sparrow, Gibbs, Barbossa, and Will Turner were sitting around a table trying to come up with a better way to find buried treasure. Trivedi et al. (2022) came up with an idea called IRCoT where we can use retrieval and CoT to help us find what we're looking for. The idea is to use one to guide the other, like a compass pointing us in the right direction. 
+
+But, we need to make sure that the intent of the search is clear. Sometimes the query alone isn't enough. Asai et al. (2022) suggested adding a natural language description of the search task, so we know exactly what we're looking for. 
+
+We also talked about how we don't always need to query the retriever for every single search. Sometimes, the LM only needs to do it occasionally when we need a little extra help. Think of it like asking for directions when we're lost. 
+
+Basically, a LM that only ingests a query is like a silent observer. We need to be more active in our search for treasure! Arrr, mateys!
+
+"Yo ho ho, listen up me hearties! So, there be these machines called LM that can talk like humans. And once they be taught how to respond to questions, they can do even more! There's this one LM called LaMDA that was made to talk to people. The creators had it learn from talking to other people and readin' stuff on the internet. They even added a calculator and translator to help it talk better! And to make sure it be correct and not say anything too crazy, they trained it even more. Another LM called BlenderBot is also pretty smart. It can talk about anything and can even search the web for ya! They got it learnin' even more by talkin' to people online. So these LMs be gettin' smarter and smarter, arrr!" - Jack Sparrow
+
+Captain Jack: "Ahoy mateys! Have you heard of ReAct? It's a fancy tool that teaches a machine how to use different tools like search and lookup to find answers."
+
+Will Turner: "Aye, and it even uses few-shot prompting to teach the machine."
+
+Elizabeth Swann: "That's right. Plus, Komeili and Shuster propose a model that generates internet search queries based on context and uses the search results to create a response."
+
+Captain Jack: "Ah, that's clever. ReAct combines reasoning and acting to improve performance on both language and decision-making tasks. It's great for answering questions, fact-checking, and navigating the web and home."
+
+Will Turner: "Reasoning can even improve decision-making by making better predictions, and using external tools like knowledge bases can help gather more information."
+
+Elizabeth Swann: "Well said, mateys. ReAct is a powerful tool for language and decision-making tasks."
+
+Captain Jack Sparrow was in need of some information on a new treasure he was after. He heard from his mate, Will Turner, that there are agents that can help navigate the world wide web to fulfill specific goals like searching for information or buying items. One agent called WebGPT was brought up by Elizabeth Swann, which is known to be able to answer long questions. 
+
+Unlike other models that can only query search engines, WebGPT can talk to web browsers, navigate the internet, follow links, and give sources. For example, if Jack needed more specific information, WebGPT could refine his initial search or perform additional actions based on his interactions. Look at Table 3 for more of the available actions.
+
+Jack Sparrow: "Ah, mateys! Listen up! This fancy talk means that an agent, like me, can use the internet to answer questions better than even you humans can, savvy? We gotta fine-tune this GPT3 model using human demonstrations and train it to predict human preferences. Kinda like how I know what rum to pick for me crew. And then, we gotta use WebShop, which is like a virtual pirate market, to find and purchase items based on instructions. It's tricky, trust me. We gotta navigate a lot of pages and sometimes even ask for more info. But we talk like humans, so it's perfect for us language-based agents."  
+
+Will Turner: "I see, Jack. So basically, these agents are like smarter versions of us. They understand complicated instructions and can even find information on the internet to help them make decisions." 
+
+Jack Sparrow: "Aye, matey! That's right. These agents can do things better and faster than us, with the help of the internet. It's like having a crew full of geniuses!" 
+
+Elizabeth Swann: "But Jack, can they really replace humans? I mean, we have emotions and can make judgment calls that these agents can't." 
+
+Jack Sparrow: "That's a good point, Elizabeth. These agents may be smart, but they can't replace our human ingenuity and instincts. But they sure can make our lives easier and save us a lot of time, savvy?" 
+
+Will Turner: "I get it now, Jack. These agents can help us do things faster and better, but they can't replace us as pirates." 
+
+Jack Sparrow: "Exactly, Will. We're the pirates, and we'll always be the best there is. But having these agents as our crewmates sure won't hurt, mateys!"
+
+Captain Jack Sparrow: Alright crew, let's break it down. Our agent, or shall we say, our fancy computer program, has been trained to behave like humans from a set of questions and demonstration pairs. It's trained to complete tasks online and checks to make sure the item we purchased matches the given description. However, there have been other computer programs that rely on images and keyboard commands, but we ain't talking about those today. 
+
+Will Turner: Aye, Captain. But there's a catch. Our agent might still make mistakes when it comes to handling large numbers or tougher calculations.
+
+Captain Jack Sparrow: Ah, that's where we need to call in the big guns. Our agent can still use symbolic modules and code interpreters to help with tricky computations. Savvy?) Rewritten:
+
+"Arr, me hearties! Listen up, because this might be a bit tricky to understand. So, ye know how we've got this fancy AI called GPT3. Well, it's great at adding up numbers just like we do when we count our loot. But, here's the thing, it can only add up numbers that it's been trained to do. So, if we give it a really big number that it's never seen before, it can't add it up. Even if we show it how to do it step by step, like we're teaching a new recruit how to tie a knot. 
+
+But, some clever pirates have been working on making AI better. They've taught AI how to do things like navigating and doing arithmetic, just like we do when we're sailing the high seas. And they're even using a physics engine to help AI understand the physical world like we do. With this new AI, called Mind's Eye, we can even ask it questions and it will use its knowledge of the physical world to give us the answer in plain English. 
+
+They've even made another AI, called PAL, which is better at solving problems than any other AI we've seen before. And it's got a fraction of the size of the other AIs! It's like having a tiny but mighty pirate on our crew."
+
+Yo ho ho! Check it out, me hearties! This fancy talk is about a way to break down tricky math and coding tasks into smaller steps. They use a big computer brain called CoT to help with this. Then, they turn those steps into code that can be run by a program. It's called PAL and it works really well when dealing with really big numbers. 
+
+Some other smartypants pirates have been using something called Codex to solve all sorts of problems. They can use it for tricky university-level problems, math problems, and even dealing with money. 
+
+And get this, some math whizzes are even using big computer brains to turn hard-to-read math problems into computer language that other computers can read! Plus, other pirates have been able to create proof sketches that are fed into a program to prove something is true. 
+
+But enough with all the fancy language! Let's talk about something more piratey. Arrr, did you hear about Roger? He had five tennis balls, but he went and bought two whole cans of tennis balls! How many does he have now?
+
+Captain Jack Sparrow: "Ahoy, mates! Listen up. Roger here had five tennis balls, and each can has three tennis balls. How many does he have now?" 
+
+Will Turner: "I reckon that means Roger has one full can plus two balls left over."
+
+Elizabeth Swann: "So, if you do the math, that's a total of eight tennis balls for Roger." 
+
+Captain Jack Sparrow: "Excellent work, my dear Elizabeth. Looks like Roger will be armed and ready for our next rumble with the Kraken."
+
+
+
+Jack: Alright, me hearties, let's do some math!
+
+Will: What's the problem, Jack?
+
+Jack: The cafeteria started with 23 apples. They used 20 for lunch and bought 6 more. How many apples do they have now?
+
+Elizabeth: Let me see if I got this right. They had 23, used 20, and bought 6 more?
+
+Jack: You got it, love.
+
+Will: So, 23 minus 20 plus 6 equals...
+
+Jack: Hold yer horses, Will. We need to calculate how many apples they had after buying 6 more. 
+
+Elizabeth: Oh, I see. It's like when we bought all those tennis balls, remember?
+
+Jack: Aye, we bought 2 cans with 3 tennis balls in each can. That's 2 times 3, which is 6.
+
+Will: So, the cafeteria bought 6 apples more. That means they have 23 minus 20 plus 6, which is 9 apples left.
+
+Jack: Well done, matey! That's the answer. Now, let's celebrate with some rum!
+
+Jack Sparrow looked down at his compass, trying to figure out the best direction to head in. Suddenly, Elizabeth Swann approached him with a curious look on her face.
+
+"Jack, what in the name of Davy Jones' locker are you reading?"
+
+"It's some sort of fancy language about machines and predictions," Jack replied, scratching his head in confusion.
+
+"Oh, I see," Elizabeth nodded, trying to follow along. "So, they're saying that these machines can learn about what actions are possible in the real world and how they affect things?"
+
+"Exactly!" Jack exclaimed, finally understanding. "And apparently, these machines can even control virtual agents in simulated environments by giving them instructions to follow."
+
+"Well, that sounds rather impressive," Elizabeth remarked. "But why do we need to know about this?"
+
+Jack grinned mischievously. "Think about it, lass. If we could get our hands on one of these machines, we could use it to control our own virtual crew and plan our next big heist!"
+
+Elizabeth rolled her eyes, but couldn't help but be amused by Jack's enthusiasm. "I suppose that's one way to use this technology. But let's not forget that we still need to rely on our own wit and cunning to succeed."
+
+"Aye, that we do," Jack agreed with a wink. "But it never hurts to have a little extra help, savvy?"
+
+Jack Sparrow: Ahoy mateys, listen up! This fancy framework can help us learn and understand things in different areas, like how to run a household. It's not just for talking, but for making plans too, savvy? 
+
+Will Turner: Aye, and there's more. Huang and his crew found that if we use our knowledge gained from this fancy thing, we can follow instructions written in natural language, like how to make breakfast. 
+
+Elizabeth Swann: Impressive, but there's a catch. We can only follow certain commands, mateys. We don't have access to everything. 
+
+Jack Sparrow: Right you are, love. But it's still an incredible step forward in our learning and understanding. Yarrr, shall we give it a go and see what we can do?
+
+Yo ho ho and a bottle of rum! The writers say they got a plan to make our robots do stuff better. They wanna take the commands from the smarty-pants machine and turn 'em into actual actions for the robot using somethin' called cosine similarity. They tested it out in a pretend house and it worked like a charm! It made the robot better at doin' its tasks than before. 
+
+But that's not all, me hearties! Other folks have tried this with real robots. Like Zeng and his crew (2022). They mixed a language model with a visual-language model and a pre-trained policy to control a robotic arm. Basically, the machine writes out a plan, describes the objects around it, and then does what it's told based on what it sees. It's like givin' orders to your first mate to navigate the ship through a storm. Only, in this case, it's a robot and a bunch of complicated machines.
+
+Captain Jack Sparrow: "Ahoy mateys! Listen up, I've got some fancy plan to share with ye. Ye see, we're gonna be using these fancy things called 7B and 70B Chinchillas to help us plan our actions in this PycoLab thingy. And to make things even easier, we've got a reporter module that'll convert what we see into words. And get this, we're gonna be using a LM thingy to figure out what we need to do for text-based tasks. And the best part is that we can get better at it by learning from our mistakes. So let's set sail and start learning!" 
+
+First Mate Will Turner: "But Captain, what does all that mean?"
+
+Captain Jack Sparrow: "Well, my dear matey, it means that we're gonna be using some advanced technology to make our pirate lives easier. And we're gonna be learning as we go along, so we can become even better pirates!" 
+
+Elizabeth Swann: "I'm not sure I understand all the technical terms, Captain. Can you explain it in simpler words for us?" 
+
+Captain Jack Sparrow: "Of course, lass! It means that we've got some fancy tools to help us plan our actions and figure out what we need to do for different tasks. And we can keep getting better at it by learning from our mistakes. So let's set sail and put these tools to good use!"
+
+Captain Jack: Alright mates, let me explain this Command Eﬀect to you. It's like giving orders to a crew to search for something in the vast ocean.
+
+Will: Ahoy Captain! So if we search for something, we send our search request to the Bing API and a page with search results is displayed?
+
+Captain Jack: Aye, that's right lad! And if we want to follow a link on that page, we click on that link's ID to get to a new page.
+
+Elizabeth: And if we want to find a specific word or phrase on that page, we can use the "find in page" command to scroll to the first occurrence of that text.
+
+Captain Jack: Precisely! And if we want to reference something on that page, we can use the "quote" command to add it. And if we want to scroll down or up the page, we can use the "scrolled down" or "scrolled up" commands respectively.
+
+Will: And to get to the top or the previous page, we use the "Top" or "back" command!
+
+Captain Jack: You're catching on, lad! Now, when we're done browsing and want to move onto answering phase, we use the "end: answer" command. But if we want to end browsing and skip answering phase altogether, we can use the "end: nonsense" or "end: controversial" commands.
+
+Elizabeth: Aye Captain, we got it! This Command Eﬀect is like our treasure map to navigate the internet. 
+
+(All laugh)
+
+Captain Jack: "Aye, me mateys, listen up! This here fancy talk is about them robots and how they can understand our natural language. They use logic and other tools to figure out what we want them to do. But, they don't always know what's feasible in the real world. So, some clever folks came up with a plan to teach them some basic skills, like finding a sponge or picking up an apple. That way, they can figure out if they can do what we ask them to do. Savvy?" 
+
+Will Turner: "I see. So, these robots can understand more complex instructions in natural language, but they still need help figuring out what they can actually do. That's very interesting." 
+
+Captain Barbossa: "Aye, but we still need to make sure they're grounded in context. We don't want 'em trying to pick up an apple when they're in the middle of the ocean, eh?" 
+
+Captain Jack: "Ha! Well said, Barbossa. We need to teach these robots some common sense, so they know what's possible and what's not. But, with the right skills and knowledge, they could be a great help to us on our pirate adventures!"
+
+Captain Jack: So Mateys, listen up! This new thing called the LM can help our robot crewmates understand difficult tasks. It's like a map that breaks down big instructions into smaller parts. Then, the LM picks the best skills that our robots can handle to get the job done. 
+
+Captain Barbossa: Aye, Jack. That sounds like a handy tool. And it seems like this SayCan method they tested can work on any job, no matter where we be.
+
+Captain Jack: That's right, Barbossa. And to make it even better, these clever folks from Chen et al. came up with a framework called NLMap-SayCan. It uses a fancy model called the Visual Language Model to create a detailed scene before choosing which plan to use. 
+
+Captain Hook: So we can finally tell our robot crewmates what to do and where to do it!
+
+Captain Jack: Exactly, Hook! Our robots will have all the knowledge they need to successfully complete tasks in any setting.
+
+Jack Sparrow: Ahoy, mates! Ye know how sometimes robots need help to make decisions?
+
+Will Turner: Aye, Cap'n Sparrow. They don't always have enough information to make the right choice.
+
+Jack Sparrow: Precisely. Well, me hearties, there's another way to help them decide. By using feedback from the environment!
+
+Elizabeth Swann: Can ye explain that a bit more, Captain?
+
+Jack Sparrow: Of course, lass. This feedback can come in many forms, like successfully completing a task, recognizing objects, or even talking with humans.
+
+Will Turner: And this feedback helps the robots perform better?
+
+Jack Sparrow: It does indeed! It improves their skills in kitchen tasks and rearranging things on a table.
+
+Elizabeth Swann: But what about learning new things?
+
+Jack Sparrow: Ah, that's where this RT-1 comes in. This technology uses large-scale robot data sets to learn how to follow over 700 natural language instructions!
+
+Will Turner: How do they label the demonstrations?
+
+Jack Sparrow: Well, they use a vision-language alignment model called CLIP to automatically label the robot demonstrations with linguistic labels. It's called DIAL, savvy?
+
+Elizabeth Swann: That's rather clever, Captain. It sounds like these robots are getting smarter by the minute!
+
+Jack Sparrow: Indeed, the seas of technology are always changing. But with this new knowledge, we'll be able to navigate it better than ever before.
+
+
+
+As the characters of Pirates of the Caribbean sat around the table, discussing how to teach their language models new abilities, they went over some technical terms. They had to teach their LMs how to reason and use tools. One way to do this was by showing them examples of how to behave. This is called "supervision". There were two common ways to do this: few-shot prompting and regular gradient-based learning.
+
+Few-shot prompting was when they gave the LM a few different examples to help them think things through, but they didn't update any parameters. Regular gradient-based learning was a bit more complicated, but it involved teaching the LM through repetition and feedback. 
+
+Before any of this, they had to pre-train the LM with a language modeling objective, which was like teaching it how to write in its own language. After that, they could teach it new skills. There was one study that mixed pre-training text with human-annotated examples, which was pretty cool.
+
+Overall, the pirates agreed that teaching their LMs new abilities was essential for their adventures on the high seas. They would succeed, just as they always did, by using their smarts and thinking outside the box.
+
+Jack Sparrow was reading a fancy book, trying to understand how some authors teach language models to reason and use tools. He came across two methods - one where the model learns from human feedback, and another where it learns from a few examples given by humans. He found the second method easier, as it only needed a few examples and no extra training. Plus, the same model could be used for different tasks just by changing the examples given to it. Gibbs agreed, saying he likes simple things that work fast. Will Turner thought it was interesting and was interested in learning more about it.
+
+Captain Jack Sparrow scratched his head as he tried to understand the complicated language before him. "Blimey, this is a mouthful," he muttered to his trusty companion, Gibbs.
+
+Gibbs nodded in agreement. "It seems that the ability for our models to reason with a chain of thoughts only emerges when they reach a certain size. And how well they perform depends on how we present the examples, the choice of examples, and the order in which we present them."
+
+"Aye, and we can only provide a limited amount of supervision," Jack added. "Especially if we need to teach our model a new behavior or have a lot of actions to learn. And once we remove the prompt, our model's ability to reason and act is gone."
+
+Gibbs nodded again. "So, what's the solution, Captain?"
+
+Jack grinned. "Simple, my friend. Fine-tuning!"Alright, me hearties! Let me tell ye about how we can teach our good friend, the pre-trained LM, to be better at reasoning and acting. One way is through supervised learning, where we update its parameters with good ol' human-labeled examples. This can help it use tools like search engines or calculators, or even improve its reasoning abilities.
+
+Now, sometimes we get these examples from the crowd, but other times we can use execution traces. Andor and his crew even found ways to improve reasoning without as many examples. It's all about tuning our LM's ability to follow instructions, savvy?
+
+Captain Jack Sparrow was trying to teach his crew how to use a calculator. He suggested they use a technique called heuristics to collect data for training the calculator. However, there was a risk that if they trained the calculator too much, it might start to do silly things and not work properly. To stop this from happening, Mr. Taylor suggested they mix some new examples with the original training data. This way the calculator would still be trained on the original data, but it would also learn new things. Some other pirates like Mr. Ouyang and Mrs. Iyer also had similar ideas for mixing the old data with new stuff. This technique is called bootstrapping. They would have to see if it really works by trying it out.
+
+Captain Jack Sparrow and Gibbs were discussing ways to improve their navigation skills. Gibbs mentioned a technique called "bootstrapping," which involves training a model to reason by prompting it with a few examples first. If the reasoning or actions lead to an incorrect prediction, those examples are discarded. For example, a model might be asked a common sense question and prompted to generate a chain of thought reasoning sequence. However, only the correct reasoning chains are kept, and the model is fine-tuned on those examples. This technique combines the strengths of few-shot prompting with the benefits of fine-tuning and can be used to teach models to reason or use tools more effectively. Captain Jack Sparrow was intrigued and suggested trying it out on their next voyage.
+
+Jack: So, mates, let me tell you about this thing called reinforcement learning. 
+
+Elizabeth: Alright, Jack, what's that? 
+
+Jack: Well, you know how it's tough and expensive for humans to teach robots how to reason and act? 
+
+Will: Aye, we do. 
+
+Jack: But, we can teach robots using human preferences such as rankings or likes and dislikes. That's much easier and cheaper, savvy? 
+
+Elizabeth: I see what you're saying. So, how does this happen? 
+
+Jack: It works through something called Reinforcement Learning, which is where the robot learns by getting rewards for good behavior. It's like when we get a reward for good work, like rum and gold! 
+
+Will: And this has worked well for games and controlling robots, right? 
+
+Jack: Aye, it has! It's been used for playing games and controlling robots, like what Gu and Kalashnikov did, and even some newer applications by folks like Vinyals and Bakhtin. 
+
+Elizabeth: Interesting. So, it sounds like reinforcement learning is a useful tool for teaching robots. 
+
+Jack: Aye, it is! And it saves us all from having to spend too much time trying to teach 'em ourselves.
+
+Jack Sparrow: Ahoy mateys! Listen up, I'm gonna tell ye about training a Language Model (LM) using Reinforcement Learning (RL). Basically, the LM is like a sailor who learns a policy to choose the next word from a list of words. This sailor's goal is to get a reward by optimizing the policy. 
+
+Will Turner: I see what you mean, Captain. But most work on RL and LM has only focused on teaching the sailor how to act and not how to think.
+
+Elizabeth Swann: That's right. But there's one work called STaR that teaches the sailor how to reason using RL. It's a bootstrapping-based approach that's discussed in Section 4.1.
+
+Jack Sparrow: The RL is a perfect framework for teaching the sailor how to use tools like search engines, calculators, or programming language interpreters. And since many tasks require the sailor to make sequential decisions, RL is perfect for it too. For example, if the sailor navigates a web browser to buy a specific product, the sailor gets a reward of 1 if he buys the correct product and 0 otherwise. Savvy?
+
+Captain Jack Sparrow sat at the table with his crewmates, discussing a new way to train their language model. "Now listen here mates," he said, pulling out a piece of parchment covered in technical jargon. "There be some early works out there that use fancy models to talk to external tools, but they're too complicated for our purposes."
+
+"Aye, I don't fancy all that technical speak," Gibbs agreed.
+
+"Exactly!" Jack exclaimed. "We want to focus on teachin' our model how to think and act like a regular person. We don't need any tools or gadgets to help us with that."
+
+"But how do we teach the model?" Will asked.
+
+"Well, we use what's called a hard-coded reward function," Jack explained. "It's a way to tell the model when it's doing somethin' right or wrong. We give it a score based on how well it's using the tools we've taught it, and then update its weights accordingly."
+
+"Aye, I see," Gibbs said, nodding his head.
+
+"Right then, let's get to work!" Jack said, rolling up the parchment and stuffing it in his pocket. "We've got a language model to train!"
+
+Sparrow: "So mateys, let me explain this optimization thing. It's when we use fancy pirate algorithms like REINFORCE and PPO to train our LMs to be better at getting information."
+
+Barbossa: "Aye, and at first they focused on just fetching facts, but now they're getting smarter. They can use tools like document retrievers and search engines to find the info they need."
+
+Jack: "Ah, but with a search engine they can refine the query or do more actions based on the initial output. It's like having a conversation with the tool!"
+
+Will: "So, like in Wu's study, they taught the LM how to rewrite queries and use an off-the-shelf retriever. Clever, eh?" 
+
+Elizabeth: "It certainly sounds like they're improving their skills, and someday they'll be able to help us find the treasure even faster!" 
+
+All the pirates cheer in agreement, excited to see where this optimization will take them.
+
+Jack Sparrow: Aye, mateys! 'tis a mouthful of words here. Let me break it down to ye. They're talkin' 'bout a way to measure how accurate a computer system is at finding information. One group made a fancy computer that can make questions that'll help other computers find the right answers. They trained the computer using feedback from another program, like a teacher. And then there's another group who taught their computer to shop online based on certain things like color or price. They gave the computer a specific goal and let it make a few choices. Kinda like us pirates, we make choices based on our goal, which is usually treasure. Savvy?
+
+Captain Jack Sparrow had been given an interesting challenge. He had to use his brain to find the right item online while also understanding what a person was asking for. The tricky part was that he had to make sure the description of the item he found matched the person's request. To do this, he used a special method called the A3C algorithm, which helped him make better decisions. Even though he wasn't as good as the experts, he found that practicing and learning from his mistakes made him better. This showed that learning from rewards and mistakes was a good way to make him better at finding things online.
+
+Jack Sparrow: "Ahoy mateys! Let me tell ye about this fancy study by Dognin and crew. They trained a language model to work with a lot of information, like a knowledge base. They used a T5 architecture and a vanilla policy gradient algorithm called REINFORCE. The model can create both text and graphs and it's really good at it too! It can make a knowledge base from text or make text from a knowledge base. They even made it so the model can measure how good it is by using metrics like BLEU, METEOR, and chrF++. And if that wasn't enough, they even had humans give feedback!" 
+
+William Turner: "Impressive work indeed, Jack. It's amazing to see how the model can process structured information and make sense of it all. This will definitely help with automated construction of databases and more efficient research."
+
+Elizabeth Swann: "Yes, and having the bidirectional generation of text and graphs is a great feature. It saves time and effort from having to switch back and forth between different tools."
+
+Jack Sparrow: "Aye, me hearties. This study is a real treasure for those who work with a lot of data. It shows that language models are capable of much more than just generating plain text."Jack Sparrow and his crew were trying to figure out if they could trust a machine to write something for them. But it's not an easy task to judge if the machine's writing is good because it can change depending on what they want. Sometimes they need the writing to be really creative, and other times they just want the facts. There are ways to measure if the machine's writing is good, but they don't always do a good job of telling if the writing is what a human wants. So, they need to listen to what people say about the writing and use that feedback to help the machine get better. This is kind of like how Jack and his crew rely on their compass to guide them on their adventures, but sometimes they have to adjust their course based on new information they learn along the way.
+
+"Ahoy mateys! We're talkin' about improvin' the way language models work. Y'see, they ain't so great at understandin' what us humans really want. But this new method, called RLHF, aims to fix that by takin' our preferences into account.
+
+The RLHF method uses a pre-trained language model to generate some text, like a little story. Then us humans read it and rank it compared to another story with the same prompt. We give it a score based on how much we like it. Then, all those scores get put together to make a reward model that captures what we want out of the text.
+
+Finally, the language model gets optimized using that reward model. It's like teachin' it what we think is good writing. This method can be used on any old language model, but for harder tasks, it might not work too well. Arrr, it's all about makin' the language model better at understandin' us humans!" -Captain Jack Sparrow
+
+It be like this, mateys: RLHF is a fancy way of teaching machines to do things. First, the experts give a few examples, then the machines get to learn on their own with some help from RLHF. One cool example of this is WebGPT, a machine that can answer questions with the help of a search engine. It looks like an easy-to-use web browser. The people who built it used a fancy technology called GPT3 and taught it how to browse web pages using regular talk. After it learned some things from humans, it kept learning on its own with some help from RLHF. Turns out, WebGPT's answers are better and more accurate than humans! Arr, it's like a pirate's dream come true!
+
+Captain Jack Sparrow: Ahoy mateys, let me tell ye a tale of a new technology called GopherCite. It's a fancy computer model that can answer questions and even find evidence to support its answers. And get this, it can even admit when it doesn't know the answer. It's different from those other models that use a web-browser because it has an external module that helps it find better information.
+
+Elizabeth Swann: That sounds impressive, Jack. How does it work exactly?
+
+Captain Jack Sparrow: Well, lass, it's trained using something called RLHF, which helps it learn how to use external tools like the one I just mentioned. And it's not just for answering questions, it can do all kinds of fancy writing tasks like summarizing and making more helpful assistants. But, it's not really focused on reasoning and acting, so it's not exactly what we need for our pirate adventures.
+
+Will Turner: So what kind of things could we ask this GopherCite thing?
+
+Captain Jack Sparrow: Oh, the possibilities are endless, mate. We could ask it where the nearest treasure is, or what the best place to hide our loot is. But I wouldn't trust it with anything too important. It's still just a computer, savvy?,2022; Barbossa et al., 2022) show promising results in these areas, but more research is needed to fully understand their potential and limitations.
+
+"Arrr mateys, this here issue be a tricky one," said Captain Jack Sparrow to his shipmates. "These fancy algorithms still need work to be stable and fast enough for us pirates to use. And the problem with havin' expert demonstrations to train 'em is it's costly and hard to come by. We need a new solution."
+
+"Aye, Cap'n," said Gibbs, scratching his beard. "But what can we do if we don't have enough data for certain tasks?"
+
+"Well, that's where bootstrappin' methods and oﬄine RL come in," said Barbossa. "They combine the best of both worlds and can improve from feedback and interaction without needing a ton of examples. Some recent studies show promise, but we need more research to see if they really work."
+
+"Aye, we'll keep that in mind for the future," said Jack, nodding his head. "But for now, we'll stick to what we know and keep sailin' the high seas."
+
+Ahoy mateys! Listen to this, Snell et al. have found a way to make robots even better than humans! They use something called "off-line RL" to make robots learn from a bunch of examples and rewards. They came up with a new algorithm called ILQL which combines online learning with using existing data. Zelikman et al. also have a cool trick to teach robots to reason. They call it "bootstrapping" and it's like using a cheat code. And just when we thought it couldn't get any better, Schick et al. created a model that teaches itself how to use tools! It's called Toolformer and it's like a self-taught pirate. Arrr, the future of robots is looking bright!
+
+Jack Sparrow: "So mateys, let me tell ye, we can use a fancy model that can do a bunch of cool things to help us out, savvy? First, it uses a smart calculator to figure out some facts for us. Like, 'Out of 1400 pirates, 400 passed the sailing test', and that's 29% of them. Then, it improves itself by checking if its own words make sense, like we do when we correct ourselves. We can even add more tools like a calendar or a search engine to make it even better. But we've only tried doing one thing at a time, so it's like testing one cannonball at a time. We could try it all together and see what happens, savvy?"
+
+
+
+Will Turner: Hey, mates! Let's talk about language modeling.
+
+Jack Sparrow: Ah, moving away from that, eh? Now, let's ponder, if a model is trained to do some thinking or get access to the internet, is it still just plain old language modeling?
+
+Elizabeth Swann: Well, in NLP, we define language modeling as predicting missing words based on context, but there are techniques to fine-tune models for different language tasks, taking it beyond just language modeling.
+
+Hector Barbossa: That's right. Texts used to refine LMs aren't just found online. They're designed to inject some grounding. What do we have here is an argument advocated by Goldberg who said learning from direct instructions could be more accessible than learning from non-instruction data.
+
+Will Turner: Arr, now I get it. So those techniques have taken us far from traditional language modeling.
+
+Jack Sparrow: Savvy. Time for some rum, me hearties!
+
+Jack Sparrow: Ahoy mateys, have ye heard about this study by Giannou et al. in 2023? They proved that even simple transformers can follow instructions and work like computers. 
+
+Will Turner: Aye, that's right, Jack. They found out that a text may seem simple, but it has hidden, complicated thoughts. 
+
+Elizabeth Swann: So, instead of just looking at the text, we need to focus on the task itself to get better results. 
+
+Jack Sparrow: Precisely, Elizabeth. By completing a specific task, we can get a better understanding of the intermediate steps and find the answer we're looking for. 
+
+Will Turner: And don't forget, Jack, this is especially true for ALMs because they can expand their context. 
+
+Elizabeth Swann: It's like we're training them to be more than just language models. 
+
+Jack Sparrow: Aye, savvy. We're teaching them to complete tasks like a proper pirate crew.
+
+Jack Sparrow: "Ahoy mateys! Listen up, this here fancy talkin' is about language models. Apparently, some models called tool-augmented LM's might forget how to predict the next word. This is because they have to factor in all the possible tool uses. Basically, it's like trying to find buried treasure without a map. Without proper tools, it's pretty tricky.
+
+Captain Barbosa: "So we be callin' them Augmented Language Models, or ALMs, to separate them from the traditional ones. And it seems there be a trade-off between memorizing information and using external tools. Some situations require tools, but other times, we just need to know simple facts like the Eiffel Tower location or basic math."
+
+Elizabeth Swann: "Exactly, Captain. We need to find a balance between the two. Sometimes, we need to rely on external tools, but other times we can trust what we already know." 
+
+Jack Sparrow: "Aye, savvy! So let's remember what we already know and use tools when necessary. It's all about finding the right balance, like steering a ship through rough waters."
+
+Captain Jack Sparrow: Alright, let me break this down for ye mateys. When we're learnin' new words, it's not enough to just memorize them - we need to use our reasoning too. Savvy?
+ 
+Will Turner: Aye, that's true. But can our fancy Artificial Language Models (ALMs) learn when to use different tools, like a code interpreter or calculator?
+
+Captain Barbossa: Arrr, I see what ye mean. Perhaps we can set a limit on how much computation each tool can use, so the ALM can figure out when to use it wisely.
+
+Elizabeth Swann: But why stop at just calculators and interpreters? Some LMs, like RETRO and Atlas, use an external memory to rely on fewer parameters.
+
+Jack Sparrow: Ah, clever! And while some folks like Cobbe use calculators to improve accuracy on math problems, the idea of using tools like this is just a broader way to think about non-parametric ways to improve LMs.
+
+Barbossa: Aye, it's all about generalizing the idea of using tools to help the LM learn and communicate better. So, what new tricks can we teach our machines, me hearties?Avast, mates! This here be some fancy talk about LM's and ALMs, but fear not, I'll translate it for ye. 
+
+So, LM's can do more than just find information - they can use other tools to do things like math problems. By not storing stuff they don't need, these LM's can be smaller but still keep their big abilities. And if they can get new info from outside sources without too many updates, it's even better. 
+
+Now, some bloke named LeCun had an idea for a smart machine, and ALMs might just be the ticket. In LeCun's world, the machine has different parts that use a 'world model' and short-term memory to make decisions and solve problems. 
+
+Savvy?
+
+Captain Jack Sparrow: Ahoy mateys, listen up! This agent we're dealing with has a fancy module that can change its world view, perception, and actions depending on the task at hand. Basically, it uses certain factors to decide what to do next. 
+
+Barbossa: Aye, those factors would be the world model, perception, and actor modules, as well as its short-term memory or prompt. 
+
+Elizabeth Swann: So, based on what it sees and knows, it'll take action and then see what happens. It's kind of like trial and error. 
+
+Captain Jack Sparrow: Right you are, lass. And that tricky conﬁgurator module is like a conditioning that shapes its initial prompt, like "You are a kind and helpful assistant." 
+
+Barbossa: But the cost stays the same, which is how much it has to think and use other tools. 
+
+Elizabeth Swann: Ah, got it. So it tries to make the best decision while keeping the cost in mind. 
+
+Captain Jack Sparrow: Sounds like a smart agent to me. But don't let your guard down, mateys. We never know what schemes it might come up with.
+
+Jack Sparrow, sitting at the bar with Gibbs, was reading a fancy-pants paper about some agent in LeCun (2022) that can plan things. He scratched his head and asked Gibbs, "What do you think this 'planning' means?"
+
+Gibbs took a sip of his grog and replied, "Well, Jack, it seems to be breaking down complicated tasks into smaller ones. They call it 'reasoning', but it's not clear if it's exactly like what humans do."
+
+Jack nodded and continued reading, "LeCun (2022) thinks this 'planning' can minimize energy by combining different actions. But here's the catch, Gibbs: apparently, these fancy agents can only predict one word at a time, and they can't reason like us humans do. They're stuck with System 1 tasks that rely on reflexes rather than logic."
+
+Gibbs raised an eyebrow, "So, they can't do System 2 tasks then?"
+
+Jack shrugged, "That's what it says here. But who knows, maybe someday they'll figure out a way to give these agents more abilities. Right now, though, they're limited by their sequence length and can't keep track of everything. It's like talking to a forgetful parrot sometimes."
+
+Captain Jack Sparrow was thinkin' about a problem: sometimes, it's hard to solve complicated problems like writin' a research paper. It ain't just a straight line from start to finish, you know? When you're workin' on something like that, you might come up with new ideas along the way, and you gotta keep track of it all in your head. But that can be tricky! 
+
+One way to help solve this problem might be to make the computer work harder - use more power and handle more information. But another solution might be to make the computer smarter, so it can work better with the information it's got. 
+
+Captain Hector Barbossa thought that a good way to do that could be to give the computer its own "energy" - kind of like a special power that helps it stay focused on the big picture. That way, it could handle complicated tasks like writing research papers better. 
+
+And speaking of complicated tasks, Captain Will Turner had an idea. What if we could make a computer that could talk like a person and understand the natural language? That would be really helpful, especially if it could work with other tools too. 
+
+All the pirates agreed: it's important to keep improving our computers so we can take on bigger and more complicated challenges in the future.
+
+Captain Jack Sparrow and his crew were playing a game of Mine craft when they realized they needed a planner to help them complete tasks. They stumbled upon a LM, which could generate plans and identify errors in execution. However, they also found out that there are other ways to approach the game. For instance, in the game of Diplomacy, a different model trained via self-play and reinforcement learning was used. Here, the LM was used as a communication tool to interact with other players. This showed them that LMs could be used to communicate with humans too, even in a restricted setting like a game of Diplomacy.
+
+Captain Jack: Ahoy mateys! Listen up, we reckon that these fancy Augmented Language Models (or ALMs for short) will be the future of interactive systems. 
+
+Elizabeth: Aye, they could be the controller of a whole system or just a module that chats away with an orchestrator.
+
+Will: But there's a question that needs answering, see. We don't know for sure if ALMs will be reliable or not.
+
+Captain Jack: Aye, that's true. But one benefit we see is that they could help make sure the information they give us is truthful. See, some models can generate info that sounds right but ain't factual, savvy?
+
+Elizabeth: So by using some tools to check the predictions, we could make sure the ALMs are trustworthy.
+
+Will: That's the hope, but there's still a lot of work to be done. Especially cause there's a lot of untrue info on the web.
+
+Captain Jack: Aye, if we're gonna use these ALMs for information retrieval, we gotta make sure they're reliable. We'll have to investigate further to make sure they don't lead us astray.
+
+Jack Sparrow, Will Turner, and Elizabeth Swann were discussing ways to improve their pirate ship's navigation. Elizabeth brought up the idea of using some fancy computer science techniques to help the ship learn and make better decisions. 
+
+Will didn't quite understand, so Elizabeth explained: "Basically, we can teach the ship to think for itself by giving it extra information to work with. This will help it know when it's uncertain about something and know when to ask for help from other sources." 
+
+Jack added in, "But sometimes these computer models are hard to understand. They're like a black box with no clear answer." 
+
+Elizabeth agreed and said, "Right, but we can make it easier to understand by breaking it down into smaller steps and using tools. It's important for us to be able to trace where the answers came from."
+
+Will nodded, finally catching on. "So, we want to make the ship smarter, but also make sure we can understand how it's making decisions. Savvy?" 
+
+They all agreed, and set off to improve their pirate ship's navigation using these new techniques.
+
+Captain Jack Sparrow: "2022 brought up an interesting point, mateys. Sometimes our brain goes on a bit of a journey, but we can still end up with the right answer. This can be tricky for those who study such things."
+
+Will Turner: "Aye, and if we enhance the abilities of these Artificial Language Models, they can be even more helpful. They can do things a plain Language Model can't, like run code and experiments!"
+
+Captain Barbossa: "And interacting with the real world can improve their decision-making skills. But let's not forget the ethical concerns. We must consider how these ALMs will impact society." 
+
+Elizabeth Swann: "It's important for us to think about how these ALMs will affect people and consider the potential consequences." 
+
+Captain Jack Sparrow: "Well said, lass. We must be mindful of the power these ALMs possess."
+
+Captain Jack Sparrow turned to his crew and said, "Listen up, me hearties! These fancy machines called LMs may look trustworthy, but they might still make mistakes. And the more they reason like us humans, the harder it is to detect their errors."
+
+Elizabeth Swann chimed in, "Aye, and it's important to know the difference between passive and active tools. Passive tools just give information, but active tools like a search engine let the LM do things without a human checking it first. That could lead to some serious trouble."
+
+Will Turner added, "And it's not just about generating text anymore. These ALMs could be connected to all kinds of tools and environments, which means even more ethical concerns to think about."
+
+Captain Jack nodded in agreement. "Aye, me hearties, it looks like we'll need to keep a close eye on these LMs and make sure they don't get too big for their britches."
+
+
+
+Captain Jack Sparrow: Ahoy mateys! This survey be tellin' us about fancy schmancy things called Augmented Language Models. These LMs be gettin' extra info to help predict missin' words. But some of these extra things be comin' from outside the model, makin' them different from the norm.
+
+Barbossa: Aye, these Augmented Language Models be departin' from the classic way of language modeling. That be why they got this fancy new name.
+
+Elizabeth Swann: Some of these models be good at reasoning or actin', but they still rely on humans to help 'em. That be a problem for scalability.
+
+Will Turner: Aye, we need to figure out how to make these models smarter without relyin' on human help.
+
+Captain Jack Sparrow: And we need to figure out how to get these skills workin' together. That be the next step, me hearties!
+
+"Avast ye mateys! We reckon that learnin' about Augmented Language Models be a grand ol' adventure towards makin' better machines that can talk just like humans. Aye, 'tis a thrillin' journey that we're excited to embark on." - Captain Jack Sparrow
+
