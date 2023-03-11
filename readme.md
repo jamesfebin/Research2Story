@@ -4,6 +4,12 @@
 
 I got headaches from studying research papers on LLMs that I started questioning my life choices. So I thought, What if...?
 
+## Setup
+
+````bash
+export OPENAI_API_KEY="YOUR_OPEN_AI_KEY"
+````
+
 ## How to use 
 
 ````bash
