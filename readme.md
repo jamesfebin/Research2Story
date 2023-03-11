@@ -1,4 +1,4 @@
-# Research2Story
+# Research2Story -  Turn Research Papers into Hilarious Novels with ChatGPT
 
 ## Why?
 
